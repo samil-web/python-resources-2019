@@ -21,10 +21,14 @@ programming.
 https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 
 * [_Python Cookbook: Recipes for Mastering Python 3_](https://www.amazon.ca/Python-Cookbook-Recipes-Mastering-ebook/dp/B00DQV4GGY) - If you need help writing programs in Python 3, or want to update older Python 2 code, this book is just the ticket.
+* [Python for kids] (https://books.google.az/books/about/Python_for_Kids.html?id=pMEUG8oNBfkC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
 
 ### Classes
 
 * [_JetBrains Academy_](https://www.jetbrains.com/academy/)  Free trial on JetBrains Academy. If you are looking for a complete course start here, the Python track. "It's a one-stop shop for reading about concepts, practicing them and then immediately applying them in projects. An all-in-one learning tool."
+* [Tech with Tim] (https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) -Absolute heaven of videos for python and other programming languages
+* [Corey Schafer] (https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) - Another beautiful channe for python videos
+
 
 ### Coding Challenges
 
